@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "setup": {
+      "commandName": "Project",
+      "commandLineArgs": "setup"
+    },
+    "import": {
+      "commandName": "Project",
+      "commandLineArgs": "import Data/firmware.xml Initial"
+    },
+    "download": {
+      "commandName": "Project",
+      "commandLineArgs": "download"
+    },
+    "www": {
+      "commandName": "Project",
+      "commandLineArgs": "www"
+    }
+  }
+}
